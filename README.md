@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-  1. Todo List <br> 
-  2. Registration Form <br>
-  3. Calculator <br>
+  1. Todo List <a href="https://github.com/Miraj1727/LGMVIP-WEB/tree/main/Task%20Number%201/Todo-List">[ Link ]</a> <br>  
+  2. Registration Form <a href="https://github.com/Miraj1727/LGMVIP-WEB/tree/main/Task%20Number%203/Registration%20Form">[ Link ]</a> <br>
+  3. Calculator <a href="https://github.com/Miraj1727/LGMVIP-WEB/tree/main/Task%20Number%204/Calculator">[ Link ]</a><br> 
 </p>
